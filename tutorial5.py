@@ -12,7 +12,7 @@ ax=plt.subplot()
 
 ax.stackplot(days, sleeping,eating,working,playing,colors=['c','m','y','k'],labels=['sleeping','eating','working','playing'])
 
-
+#haha
 
 
 
